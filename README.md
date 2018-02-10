@@ -1,5 +1,6 @@
 # fruit-ninja-openCV
 1. softwares to install
+
 (1) python 3.6.3
 https://www.python.org/downloads/release/python-363/
 From this website you can download the latest version of python.
